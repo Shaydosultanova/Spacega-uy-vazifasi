@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: darkslategrey;
+}
+
+span{
+    color: white;
+    background-color:rgb(43, 4, 4);
+    width: 636px;
+    height: 116px;
+    padding: 24px 17px 23px 28px;
+    margin: 22px 423px 55px 518px;
+    font-size: 35px;
+}
+
+.qora{
+    background-color: black;
+    width: 1000px;
+    height: 580px;
+    margin: 55px 220px 193px;
+    border: 8px solid red;
+}
+
+.zang1{
+    background-color: aqua;
+    padding: 54px 40px;
+    margin: 45px 52px 30px;
+    font-size: 20px;
+}
+
+.zang2{
+    background-color: aqua;
+    padding: 54px 40px;
+    margin: 30px 52px 45px;
+    font-size: 20px;
+}
